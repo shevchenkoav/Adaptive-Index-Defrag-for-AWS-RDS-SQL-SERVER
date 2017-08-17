@@ -6,4 +6,4 @@ The 1st release (back in March 2010) was inspired by an earlier release of Miche
 Fore more information regarding AdaptiveIndexDefrag please check the following blog post: https://blogs.msdn.microsoft.com/blogdoezequiel/2011/07/03/adaptive-index-defrag/
 
 In order to work in AWS RDS SQL Server cloud offer, it was necessary to adapt AdaptiveIndexDefrag script.
-Since i do not have access to MSDB or MODEL or MASTER (SQL SERVER System Databases), adopted the database called ‘MaintenanceOS’ to install all the infrastructure needed to deploy this process.
+Since i do not have access to MSDB or MODEL or MASTER (SQL SERVER System Databases), adapted the database called ‘MaintenanceOS’ to install all the infrastructure needed to deploy this process.
